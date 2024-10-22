@@ -1,9 +1,4 @@
-<p align="center">
- <img with="100px" src="https://media.tenor.com/BWk4_NBCmtgAAAAC/one-piece.gif" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
-</p>
-
-### Hi there 👋 I'm Ivan Ahumada V.
+### Hello there 👋 I'm Ivan Ahumada V.
 > Full stack developer
 
 
