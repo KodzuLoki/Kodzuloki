@@ -9,6 +9,10 @@ I also have knowledge in managing control panels such as cPanel.
 I am passionate about frontend development, constantly learning more about technologies to keep improving.
 Lastly, I have experience working with agile methodologies (Scrum).
 </p>
+<br>
+ <p> 
+  Portfolio: https://kodzuloki.github.io/
+ </p>
 </div>
 
 ### Programming Languages 🌐
